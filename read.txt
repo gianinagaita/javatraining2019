@@ -1,4 +1,8 @@
-whglinia1
+ HEAD
+linia1
+=======
+linia1
+ b5f7f0c69bbb3dbcda0b54f1bb1c9d6390fd88b3
 linia2
 linia3
 
